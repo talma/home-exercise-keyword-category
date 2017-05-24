@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.gradle
+out
+gradle
+keyword-category.iws
+keyword-category.iml
+keyword-category.ipr
